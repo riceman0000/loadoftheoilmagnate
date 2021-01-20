@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2ea6eb355571e84b871a3991de36f42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {fileID: 812490524486382482, guid: bb301003e1f2e984db7031de45696213,
+      type: 3}
+  - missilePrefab: {fileID: 812490524486382482, guid: bb301003e1f2e984db7031de45696213,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+{
+	"l_hand":{"index":20, "x":58, "y":-12.5},
+	"l_shirtarm":{"index":19, "x":57.5, "y":79.5},
+	"front_outerwear":{"index":18, "x":12.5, "y":-1},
+	"c_shirt":{"index":17, "x":-2, "y":94},
+	"r_hand":{"index":16, "x":-92.5, "y":-9},
+	"r_shirtarm":{"index":15, "x":-60.5, "y":80.5},
+	"l_pants":{"index":14, "x":28.5, "y":-112},
+	"l_shoes":{"index":13, "x":31.5, "y":-238.5},
+	"c_pants":{"index":12, "x":-27, "y":-34},
+	"r_pants":{"index":11, "x":-32.5, "y":-97},
+	"r_shoes":{"index":10, "x":-68.5, "y":-237},
+	"front_kufiya":{"index":9, "x":8.5, "y":154},
+	"c_hair":{"index":8, "x":-7.5, "y":209},
+	"c_head":{"index":7, "x":-6.5, "y":203.5},
+	"l_arm":{"index":6, "x":53, "y":73},
+	"l_foot":{"index":5, "x":24, "y":-110.5},
+	"c_body":{"index":4, "x":-2.5, "y":87.5},
+	"r_foot":{"index":3, "x":-48, "y":-109},
+	"r_arm":{"index":2, "x":-60, "y":80},
+	"back_kufiya":{"index":1, "x":2, "y":142},
+	"back_outerwear":{"index":0, "x":3, "y":22}
+}

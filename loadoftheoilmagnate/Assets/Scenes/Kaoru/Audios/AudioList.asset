@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56cb055f5a4688749b8aaad1f7485d72, type: 3}
+  m_Name: AudioList
+  m_EditorClassIdentifier: 
+  audioContents:
+  - sceneTitle: 64
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: eef9c2499c83a554bab0f388845449b6, type: 3}
+      introFlag: 1
+      introClip: {fileID: 8300000, guid: e31433a185c1d8442b2c5509148f414b, type: 3}
+  - sceneTitle: 128
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: d098da92a66665c48907870b0f25069a, type: 3}
+      introFlag: 0
+      introClip: {fileID: 0}
+  - sceneTitle: 2
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: a76dab229bf805448bccdc0714db0bff, type: 3}
+      introFlag: 1
+      introClip: {fileID: 8300000, guid: 04a53096ba8d3e648b6fa73dcfe58919, type: 3}
+  - sceneTitle: 256
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 0f380bc3b6ba27e44aada754b228d6fa, type: 3}
+      introFlag: 0
+      introClip: {fileID: 0}
+  - sceneTitle: 16
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 744ad8fa2f546a646a16b83abdf32994, type: 3}
+      introFlag: 1
+      introClip: {fileID: 8300000, guid: ba33ffd13c3d31c4ab326340fb697de4, type: 3}
+  - sceneTitle: 2048
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 744ad8fa2f546a646a16b83abdf32994, type: 3}
+      introFlag: 1
+      introClip: {fileID: 8300000, guid: ba33ffd13c3d31c4ab326340fb697de4, type: 3}
+  - sceneTitle: 1024
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 07f6b86e446388f429f16be8803954b0, type: 3}
+      introFlag: 0
+      introClip: {fileID: 0}
+  - sceneTitle: 4096
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: d098da92a66665c48907870b0f25069a, type: 3}
+      introFlag: 0
+      introClip: {fileID: 0}
+  - sceneTitle: 8
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 8734a126416dea346a1598f69693e6ec, type: 3}
+      introFlag: 0
+      introClip: {fileID: 0}
+  - sceneTitle: 4
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: a76dab229bf805448bccdc0714db0bff, type: 3}
+      introFlag: 0
+      introClip: {fileID: 8300000, guid: 04a53096ba8d3e648b6fa73dcfe58919, type: 3}
+  - sceneTitle: 16384
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 2f27c776150608541b46c129ba1957bf, type: 3}
+      introFlag: 1
+      introClip: {fileID: 8300000, guid: 047a47190df6b5f47865d4c8836f6004, type: 3}
+  - sceneTitle: 32768
+    clipDatas:
+      loopClip: {fileID: 8300000, guid: 0f380bc3b6ba27e44aada754b228d6fa, type: 3}
+      introFlag: 0
+      introClip: {fileID: 0}

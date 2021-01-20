@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dda3613e36c3f194a894c41fb63d4067
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mixer: {instanceID: 0}
+  - MixerBgmGroup: {fileID: -8980328761897008732, guid: 77fa10dd9b833b64481e0e601ef850f2,
+      type: 2}
+  - MixerSeGroup: {fileID: -1615658161074291688, guid: 77fa10dd9b833b64481e0e601ef850f2,
+      type: 2}
+  - MixerVoiceGroup: {fileID: -1619458943439969824, guid: 77fa10dd9b833b64481e0e601ef850f2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca2a6b83893da6d4e98dc0a75ab9802f, type: 3}
+  m_Name: InitialStatus
+  m_EditorClassIdentifier: 
+  _mPParam:
+    _max: 7000000
+  _speed: 5
+  _swipeThreshold: 1
+  _attack: 1
+  _knockbackTime: 0.5
+  _attackMode: 0

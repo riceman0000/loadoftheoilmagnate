@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6443710b1071964badbe18fb46e0b08, type: 3}
+  m_Name: SEList
+  m_EditorClassIdentifier: 
+  sEContents:
+  - SEName: 0
+    SEClip: {fileID: 8300000, guid: 01d1ed9393793c84f87dce7d2bf96951, type: 3}
+  - SEName: 1
+    SEClip: {fileID: 8300000, guid: e143cbc83ec0bdc46a805fa0217ba76e, type: 3}
+  - SEName: 2
+    SEClip: {fileID: 8300000, guid: 086513e99d5de5f4abc1d41a98259359, type: 3}
+  - SEName: 3
+    SEClip: {fileID: 8300000, guid: 1240c801a61c908489a9a5c354942523, type: 3}
+  - SEName: 6
+    SEClip: {fileID: 8300000, guid: cf6d2810794fa764380b55b84550ae1a, type: 3}
+  - SEName: 7
+    SEClip: {fileID: 8300000, guid: 953662a288af06545b38837d82d7bfda, type: 3}
+  - SEName: 8
+    SEClip: {fileID: 8300000, guid: aa5a0bb59b20be54daf75a5faecc3ab8, type: 3}
+  - SEName: 4
+    SEClip: {fileID: 8300000, guid: 99ef5e01372871546891c3c9dfc7865b, type: 3}
+  - SEName: 9
+    SEClip: {fileID: 8300000, guid: 4969614d010df5d4584b1829dd109366, type: 3}
+  - SEName: 10
+    SEClip: {fileID: 8300000, guid: e35483a17020a4f44a3f3c67868f4a30, type: 3}
+  - SEName: 11
+    SEClip: {fileID: 8300000, guid: ffec0b516f096a042b16d563d249a4c2, type: 3}
+  - SEName: 12
+    SEClip: {fileID: 8300000, guid: fda584809bb34aa4094935edef42cec4, type: 3}
+  - SEName: 13
+    SEClip: {fileID: 8300000, guid: f6d0b829cb3285246a50e90c2c262f7f, type: 3}

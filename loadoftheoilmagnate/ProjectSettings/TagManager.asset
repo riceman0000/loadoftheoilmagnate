@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - OilGeyser
+  - Container
+  - PlayerAttack
+  - FieldMap
+  - Effect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FieldMap
+    uniqueID: 21385281
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OilAction
+    uniqueID: 160422977
+    locked: 0
+  - name: Character
+    uniqueID: 2975837909
+    locked: 0
+  - name: Player
+    uniqueID: 11676517
+    locked: 0
+  - name: Effect
+    uniqueID: 3739810725
+    locked: 0
+  - name: UI
+    uniqueID: 1443641203
+    locked: 0
+  - name: FieldSensor
+    uniqueID: 3714308187
+    locked: 0

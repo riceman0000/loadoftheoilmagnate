@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: TackleInit
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: bone/mn_c_main
+    localPosition: {x: -0.059999943, y: -0.20000029, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.78173786, w: 0.6236073}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01
+    localPosition: {x: 0.7157098, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.043366328, w: 0.9990593}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02
+    localPosition: {x: 0.46044922, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.18331127, w: 0.98305494}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_c_neck
+    localPosition: {x: 0.5157931, y: 0.000000067055225, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.114632525, w: 0.99340796}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_c_neck/mn_c_head
+    localPosition: {x: 0.13513622, y: -0.00000024959445, z: 0}
+    localRotation: {x: -0.016566845, y: -0.025505621, z: 0.016688837, w: 0.9993981}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar
+    localPosition: {x: 0.17283604, y: 0.16714238, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.38026604, w: 0.92487717}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder
+    localPosition: {x: 0.22320706, y: -0.00000025704503, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.13170247, w: 0.9912894}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow
+    localPosition: {x: 0.7789949, y: -0.00000023841858, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.62465024, w: 0.78090465}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist
+    localPosition: {x: 0.7033701, y: -0.00000011874363, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.04611062, w: -0.99893636}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist/wn_r_weapon01
+    localPosition: {x: 0.13771832, y: 0.0000003427267, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.1633054, w: 0.98657566}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist/wn_r_weapon01/wn_r_weapon02
+    localPosition: {x: 0.24555027, y: -0.00000007869676, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.07132276, w: 0.9974533}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist/wn_r_weapon01/wn_r_weapon02/wn_r_weapon03
+    localPosition: {x: 0.21757317, y: -0.00000029899638, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.05474293, w: 0.9985005}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist/wn_r_weapon01/wn_r_weapon02/wn_r_weapon03/wn_r_weapon04
+    localPosition: {x: 0.24816509, y: 0.00000048846096, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.03987777, w: 0.9992046}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist/wn_r_weapon01/wn_r_weapon02/wn_r_weapon03/wn_r_weapon04/wn_r_weapon05
+    localPosition: {x: 0.23810428, y: -0.0000005013423, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.02883057, w: 0.9995844}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar
+    localPosition: {x: 0.38634086, y: -0.13619408, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6632671, w: -0.7483828}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar/mn_l_shoulder
+    localPosition: {x: 0.33849254, y: 0.00000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.47819638, w: -0.8782529}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar/mn_l_shoulder/mn_l_elbow
+    localPosition: {x: 0.67498124, y: 0.0000001937151, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.0122413235, w: 0.9999251}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar/mn_l_shoulder/mn_l_elbow/mn_l_wrist
+    localPosition: {x: 0.75461054, y: 0.00000044703484, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.055286378, w: 0.99847054}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_r_hip
+    localPosition: {x: -0.1027592, y: 0.25948828, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9504631, w: 0.31083742}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_r_hip/mn_r_knee
+    localPosition: {x: 1.0102239, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.36919743, w: 0.929351}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_r_hip/mn_r_knee/mn_r_ankle
+    localPosition: {x: 1.2924403, y: -0.00000010774238, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.77466184, w: -0.63237566}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_l_hip
+    localPosition: {x: -0.11251001, y: -0.30120176, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99030745, w: 0.13889273}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_l_hip/mn_l_knee
+    localPosition: {x: 0.96543574, y: 0.00000010430813, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_l_hip/mn_l_knee/mn_l_ankle
+    localPosition: {x: 1.3685521, y: -0.00000009126961, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.82256854, w: 0.56866604}
+    localScale: {x: 1, y: 1, z: 1}

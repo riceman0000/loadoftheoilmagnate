@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: BlowOff
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: bone/mn_c_main
+    localPosition: {x: 0, y: 2.590477, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.5365969, w: 0.84383875}
+    localScale: {x: -1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01
+    localPosition: {x: 0.7157098, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.22330113, w: 0.9747495}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02
+    localPosition: {x: 0.642671, y: -0.00000012004102, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.033537235, w: 0.9994375}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_c_neck
+    localPosition: {x: 0.29447547, y: 9.313226e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.13818562, w: 0.9904064}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_c_neck/mn_c_head
+    localPosition: {x: 0.15901169, y: -0.00000008195639, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.20229045, w: 0.97932565}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar
+    localPosition: {x: 0.07060345, y: 0.13461627, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6853942, w: 0.72817224}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder
+    localPosition: {x: 0.19856845, y: -0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.19769506, w: 0.98026365}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow
+    localPosition: {x: 0.6719717, y: -0.00000023841858, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.3372796, w: 0.9414046}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_r_collar/mn_r_shoulder/mn_r_elbow/mn_r_wrist
+    localPosition: {x: 0.22697183, y: 0.00000014901161, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.30782947, w: 0.9514416}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar
+    localPosition: {x: 0.1842015, y: -0.15547213, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.95124036, w: -0.3084507}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar/mn_l_shoulder
+    localPosition: {x: 0.33849254, y: 0.00000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.66253966, w: -0.7490269}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar/mn_l_shoulder/mn_l_elbow
+    localPosition: {x: 0.68424773, y: 0.0000001937151, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.5777636, w: 0.8162042}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_c_spine01/mn_c_spine02/mn_l_collar/mn_l_shoulder/mn_l_elbow/mn_l_wrist
+    localPosition: {x: 0.7426023, y: -0.00000017881393, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.14754288, w: -0.98905575}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_r_hip
+    localPosition: {x: -0.1027592, y: 0.25948828, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99054396, w: -0.13719596}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_r_hip/mn_r_knee
+    localPosition: {x: 1.0619009, y: -0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.029318038, w: 0.99957013}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_r_hip/mn_r_knee/mn_r_ankle
+    localPosition: {x: 1.3007741, y: 0.000000013038516, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.37543935, w: 0.92684704}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_l_hip
+    localPosition: {x: -0.11251001, y: -0.30120176, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99701375, w: -0.077223875}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_l_hip/mn_l_knee
+    localPosition: {x: 0.9986189, y: -0.0000000018626451, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.098969944, w: 0.9950905}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/mn_c_main/mn_l_hip/mn_l_knee/mn_l_ankle
+    localPosition: {x: 1.418588, y: -0.00000018859282, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.35726535, w: -0.934003}
+    localScale: {x: 1, y: 1, z: 1}
